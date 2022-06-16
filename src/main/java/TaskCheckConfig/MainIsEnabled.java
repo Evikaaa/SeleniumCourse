@@ -20,7 +20,6 @@ public class MainIsEnabled {
         } else {
             System.out.println("Element not enabled");
         }
-
-        driver.quit();
+//        driver.quit();
     }
 }
